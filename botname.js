@@ -1,9 +1,9 @@
 module.exports = async function ({ reply }) {
   reply(
-`🤖 *Bot Name:* MeGaTron
-👑 *Developer:* Tayyab
-📺 *YouTube:* https://www.youtube.com/@TayyabExploitZ
+`🤖 *Bot Name:* TECHNOX BUG
+👑 *Developer:* INCOGNITO 🎭
+ *WHATSAPP:* https://wa.me/qr/K7CMHLQC4ZZ7M1
 
-> 𝗧𝗔𝗬𝗬𝗔𝗕 ❦ ✓`
+> INCOGNITO 🎭 ✓`
   );
 };

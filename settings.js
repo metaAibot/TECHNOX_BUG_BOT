@@ -1,14 +1,14 @@
 // ✅ MegaTron Bot Stylish Configuration – by 𝗧𝗔𝗬𝗬𝗔𝗕 ❦ ✓
 
 // 🔗 Import owner number from ./Owner/owner.js
-const ownerNumber = require('./Owner/owner'); // 💡 owner.js should export array of numbers like ['2347043204941']
+const ownerNumber = require('./Owner/owner'); // 💡 owner.js should export array of numbers like ['923123456789']
 
 const config = {
   ownerNumber, // 👑 Owner Number(s)
-  botName: '🤖 TECHNOX BUG BOT',       // 💥 Stylish Bot Name
-  ownerName: 'INCOGNITO 🎭',             // 👑 Stylish Owner Name
- 
-  signature: '> INCOGNITO 🎭 ✓',              // 🖋️ Footer Signature
+  botName: '🤖 𝗠𝗘𝗚𝗔𝐓𝐑𝐎𝐍 𝑩𝑶𝑻 ⚡',       // 💥 Stylish Bot Name
+  ownerName: '𓆩 𝗧𝗔𝗬𝗬𝗔𝗕 ❦︎𓆪',             // 👑 Stylish Owner Name
+  youtube: 'https://www.youtube.com/@TayyabExploitZ', // 🔗 YouTube Channel
+  signature: '> 𝗧𝗔𝗬𝗬𝗔𝗕 ❦ ✓',              // 🖋️ Footer Signature
 
   autoTyping: false,     // ⌨️ Fake Typing Feature
   autoReact: false,      // 💖 Auto Emoji Reaction

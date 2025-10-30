@@ -26,8 +26,7 @@ async function startBot() {
 
   // ✅ Load Settings
   const settings = typeof loadSettings === 'function' ? loadSettings() : {};
- let ownerRaw = settings.ownerNumber && settings.ownerNumber[0] || "2347043204941";
-  ";
+  let ownerRaw = settings.ownerNumber?.[0] || "92300xxxxxxx";
   const ownerJid = ownerRaw.includes("@s.whatsapp.net") ? ownerRaw : ownerRaw + "@s.whatsapp.net";
 
   // 🌐 Global Variables
